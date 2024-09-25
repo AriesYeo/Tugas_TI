@@ -26,7 +26,7 @@ label.pack(pady=10)
 entry = tk.Entry(root)
 entry.pack(pady=10)
 
-button = tk.Button(root, text="NPM berhasil", command=searcing_NPM)
+button = tk.Button(root, text="Enter", command=searcing_NPM)
 button.pack(pady=20)
 
 root.mainloop()
