@@ -1,3 +1,17 @@
+
+# Soal Nomor 1
+# for row in range (3):
+#     print ("******")
+
+
+# Soal Nomor 2
+# for i in range (1, 7):
+#     print (" " * (7 - i) + str(i)*i)
+
+
+
+#Soal 3 A
+
 # numbers = []
 # i = 1
 # while i < 16:
@@ -39,13 +53,13 @@
 
     
 # Soal C
-numbers = []
-i = 0
-while i <= 35:
-    i += 7
-    numbers.append(i)
-for number in numbers:
-    print (number, end=" ," )
-    if number == 42:
-        print (49, end="")
+# numbers = []
+# i = 0
+# while i <= 35:
+#     i += 7
+#     numbers.append(i)
+# for number in numbers:
+#     print (number, end=" ," )
+#     if number == 42:
+#         print (49, end="")
     
