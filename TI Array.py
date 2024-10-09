@@ -91,7 +91,12 @@
 
 # # # tugas kelima 
 
-input_angka = input("Masukkan angka (pisahkan dengan koma): ")
-angka = [int(num) for num in input_angka.split(",")]
-total= sum(angka)
-print (total)
+# input_angka = input("Masukkan angka (pisahkan dengan koma): ")
+# angka = [int(num) for num in input_angka.split(",")]
+# total= sum(angka)
+# print (total)
+
+
+# Tugas keenam (ide aplikasi dengan menggunakawn array)
+
+#bikin aplikasi to do list biar kita bisa ingat
